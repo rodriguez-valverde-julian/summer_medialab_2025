@@ -2,6 +2,6 @@
 This is a python course for Q-Lab 
 
 # Studentes 
-Fabiana 
-Marcela 
-Santiago 
+1. Fabiana 
+2. Marcela 
+3. Santiago 
